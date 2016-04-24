@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"  tools:context="activity1"
+    android:background="#0066CC"
+    android:orientation="horizontal">
+
+        <ImageView
+            android:padding="100dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/design"
+            android:gravity="center"
+            android:id="@+id/icon" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/relativeLayout">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="86dp"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:text="Click here to enter"
+            android:background="#0066CC"
+            android:textColor="#FFFFFF"
+            android:id="@+id/enter" />
+    </RelativeLayout>
+
+</RelativeLayout>
