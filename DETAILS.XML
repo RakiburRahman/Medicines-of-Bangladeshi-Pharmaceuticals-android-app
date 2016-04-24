@@ -1,0 +1,113 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.sunny.medicinesofbangladeshipharmaceuticals.aci1">
+
+   <LinearLayout
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+       <ImageView
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:src="@drawable/acilogo"
+           android:id="@+id/aci"/>
+       <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:text="Abecab:Amlodipine Besylate and Olmesartan Medoxomil"
+       android:id="@+id/aci311"
+       />
+       <TextView
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:text="Description:
+Abecab® is a combination preparation of Amlodipine Besylate and Olmesartan
+Medoxomil.Amlodipine is a calcium channel blocker that acts directly on vascular
+smooth muscle to cause a reduction in peripheral vascular resistance and reduction
+in blood pressure. Olmesartan blocks the vasoconstrictor effects of Angiotensin II by
+selectively blocking the binding of Angiotensin II to the AT1 receptor in vascular
+smooth muscle. Its action is, therefore, independent of the pathways for Angiotensin
+II synthesis.
+Indications:
+Abecab® is indicated for the treatment of hypertension, alone or with other
+antihypertensive agents.
+Abecab® may also be used as initial therapy in patients who are likely to need
+multiple antihypertensive agents to achieve their blood pressure goals.
+Dosage and administration
+General considerations:
+Maximum antihypertensive effects are attained within 2 weeks. Abecab® may be
+taken with or without food. Abecab® may be administered with other
+antihypertensive agents. Dosage may be increased after 2 weeks. The maximum
+recommended dose of Abecab® is 2 tablets (10/40 mg) once daily.
+Initial therapy:
+The usual starting dose of Abecab® is one tablet (5/20 mg) once daily. Depending on
+the blood pressure response, the dose may be titrated at intervals of 1-2 weeks to
+two tablets of Abecab® (10/40 mg) once daily.
+Replacement therapy
+Abecab® may be substituted for its individually titrated components. When
+substituting for individual components, the dose of one or both of the components
+can be increased if blood pressure control has not been satisfactory.
+Add-on Therapy:
+Abecab® may be used to provide additional blood pressure lowering for patients not
+adequately controlled with Amlodipine (or another dihydropyridine calcium channel
+blocker) alone or with Olmesartan Medoxomil (or another Angiotensin receptor
+blocker) alone.
+Elderly patients
+No dosage adjustment is necessary in elderly patients ≥ 65 years age.
+Patients with hepatic impairment
+Initial therapy with Abecab® is not recommended in patient’s ≥75 years and in
+patients with hepatic impairment.
+Children
+The safety and effectiveness of Abecab® in pediatric patients have not been
+established.
+Use in pregnancy and lactation
+Olmesartan medoxomil: Pregnancy Categories C (first trimester) and D (second
+and third trimesters).
+Amlodipine: There are no adequate and well-controlled studies in pregnant women.
+Amlodipine should be used during pregnancy only if the potential benefit justifies the
+potential risk to the fetus.
+When pregnancy is detected, discontinue this Amlodipine and Olmesartan
+combination as soon as possible.
+It is not known whether the Amlodipine or Olmesartan Medoxomil is excreted in
+human milk.
+Side effects:
+The overall incidence of side effects on therapy with Amlodipine and Olmesartan
+combination was similar to that seen with corresponding doses of the individual
+components and to placebo. The common side effects include edema, hypotension,
+orthostatic hypotension, rash, pruritus, palpitation, urinary frequency, and nocturia.
+Contraindications
+Combination of Amlodipine and Olmesartan is contraindicated in patients who are
+hypersensitive to any component of this product or to any of its ingredients.
+Precautions:
+Caution should be exercised in patients with volume or salt depletion, severe aortic
+stenosis,severe obstructive coronary artery disease, congestive heart failure,
+impaired renal function, and hepatic impairment. No initial dosage adjustment is
+recommended for patients with moderate to marked renal impairment (Creatinine
+clearance 40 mL/min). Combination of Amlodipine and Olmesartan is not
+recommended below Creatinine Clearance 20 mL/min.
+Drug Interactions
+In vitro data indicate that Amlodipine has no effect on the human plasma protein
+binding of digoxin, phenytoin, warfarin, and indomethacin. No significant drug
+interactions were reported when Olmesartan was co-administered with digoxin or
+warfarin.
+Overdosage:
+If massive overdose occurs, active cardiac and respiratory monitoring should be
+instituted. Frequent blood pressure measurements are essential and treatment
+should be supportive.
+Pharmaceutical precautions
+Store in a cool and dry place. Protect from light.
+Presentation
+Abecab® tablet: Each coated tablet contains Amlodipine Besylate BP equivalent to 5
+mg Amlodipine and Olmesartan medoxomil INN 20 mg.
+Package quantities
+Abecab® tablet: Carton of 30 tablets in Alu-PVC blister."
+           android:textColor="#008000"
+           android:id="@+id/aci312"/>
+
+   </LinearLayout>
+
+</ScrollView>
